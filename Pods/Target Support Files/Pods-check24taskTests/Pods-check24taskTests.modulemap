@@ -1,0 +1,6 @@
+framework module Pods_check24taskTests {
+  umbrella header "Pods-check24taskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
